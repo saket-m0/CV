@@ -1,2 +1,2 @@
 ## Resume
-contains mine resume in pdf format
+contains resume in pdf format
