@@ -5,3 +5,4 @@ contains resume in pdf format
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/tejasvaidhyadev/CV/blob/master/Resume.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+![Resume](https://github.com/tejasvaidhyadev/CV/blob/master/Resume.pdf)
