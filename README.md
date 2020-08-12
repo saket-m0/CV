@@ -6,3 +6,5 @@ contains resume in pdf format
     </embed>
 </object>
 ![Resume](https://github.com/tejasvaidhyadev/CV/blob/master/Resume.pdf)
+
+<embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
